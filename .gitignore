@@ -1,0 +1,13 @@
+# Programmdaten (enthalten personenbezogene Daten - niemals einchecken)
+gartenabrechnung-daten.json
+gartenabrechnung-daten.json.tmp
+Rechnungen/
+Sicherungen/
+*.pdf
+*.xlsx
+*.csv
+
+# Build-Ergebnisse
+*.exe
+/gartenabrechnung
+/vendor/
